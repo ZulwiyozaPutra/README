@@ -1,10 +1,16 @@
 # README
 
-Personal development objective: Professional software engineer. (E.G. Jeff Dean) Strength: logic, analytics, observing, building stuff, fast-learner, persuasive communication
+Personal development objective: Professional software engineer.
+Strength: logic, analytics, observing, building stuff, fast-learner, persuasive communication
 
 ## Lifecycle
-Wake up before 6.00, start working at 7.00
-Sleep before 10.00
+### Weekdays
+Wake up before 6.00AM, start working at 7.30AM
+Sleep before 10.00PM
+
+### Weekend
+Wake up before 9.00AM
+Sleep before 1.00AM
 
 ## Weekdays
 I’ll never do non-tech-related-work before I have 3 hours with tech-related-work in a day
